@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="description" content="A Little Bit about Shawn" />
+  <meta name="robots" content="nofollow" />
+  <meta http-equiv="Author" content="Shawn Caton" />
+  <meta http-equiv="pragma" content="no-cache" />
+</head>
+
+  <!--1/25/17-->
+
+<body>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Icon_dog.gif"
+     alt="A black dog" title="The black lab is one of the most common pets"
+     width="200" height="200">
+
+
+<div id="header">  <h2><b><i> Shawn Caton </h2></b> </i>
+</body>
+  <p> <b> Global Politics / Sociology and Anthropology </b> <i> (2017) </p> </i> </div>
+
+<p class="listheading">
+  <h2> I   <span class="standout">like</span> about technology: </h2>
+</p>
+
+ <p id="techlikes">
+<ul>
+    <li> iMessage </li>
+    <li> Google </li>
+    <li> Cloud Storage </li>
+</ul>
+  </p>
+
+<p class="listheading">
+    <h2> I   <span class="standout">dislike</span> about technology: </h2>
+</p>
+
+ <p id="techdislikes">
+  <ul>
+    <li> Always expected to be connected </li>
+    <li> No privacy </li>
+  </ul>
+</p>
+
+<p class="listheading">
+  <h2> I hope to use this course to: </h2>
+</p>
+
+ <p id="tolearn">
+  <ol>
+    <li> Understand web design more </li>
+    <li> work in jsbin </li>
+    <li> working in CSS </li>
+  </ol>
+</p>
+
+  <dl>
+    <dt><a href="http://www.vox.com" target="_blank">Vox</a></dt>
+  <dd>News source that tries to give you a quick overview of all news</dd>
+    <dt><a href="http://www.google.com/docs"target="_blank">Google Docs</a></dt>
+  <dd>Offers an alternative to Office and saves to the cloud</dd>
+    <dt><a href="http://www.prezi.com"target="_blank">Prezi</a></dt>
+  <dd>Offers a presentation software</dd>
+</dl>
+  <hr>
+
+<h2> My Photos </h2>
+
+  <img src="title=Images\2016.jpg"
+     alt="My football uniform" title= This was the Emory and Henry game>
+
+  <img src="title=>Images\ThesisposterUpdated.jpg"
+     alt="My SOAN capstone poster" title= This study was conducted at W&L>
+
+  <img src="title=>Images\Dog1.jpg"
+     alt="A old picture of my dog" title= This dog is a yellow lab>
+
+  <hr>
+
+<h2> This Weeks's Meals </h2>
+ <table>
+  <tr>
+    <th></th>
+        <td></td>
+    <th scope="col">Breakfast</th>
+    <th scope="col">Lunch</th>
+    <th scope="col">Dinner</th>
+
+  </tr>
+
+   <th scope="row">Monday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+      <th scope="row">Tuesday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+      <th scope="row">Wednesday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+      <th scope="row">Thursday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+      <th scope="row">Friday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+      <th scope="row">Saturday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+      <th scope="row">Sunday</th>
+   <td></td>
+   <td>food</td>
+   <td>food</td>
+   <td>food</td>  </tr>
+
+  </tr>
+</table>
+
+<form
+    action="http://dhtools.wlu.edu/~mickelj/mailform/mail.php"method="post">
+
+  <p>E-mail:
+  <input type="text" name="E-mail"
+        size="15" maxlength="30" />
+</p>
+
+
+  <p>Comments</p>
+
+<textarea name="comments"
+   cols="20" rows="4">
+  Your Feedback
+</textarea>
+
+  <input type="hidden" name="email_to"
+   value="catons17@mail.wlu.edu" />
+
+<input type="submit" value="Submit" />
+
+</form>
+
+  <hr>
+
+  <blockquote
+ <p>"Be who you are and be that well"</p>
+  <h6> St. Francis DeSales </h6>
+</blockquote>
+
+</body>
+
+</html>
