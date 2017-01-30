@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>A Little about Shawn</title>
+</head>
+<body>
+  <h1><b><i> Shawn Caton </b> </i>
+</body>
+  <p> <b> Global Politics / Sociology and Anthropology </b> <i> (2017) </i>
+
+  <h2> I like about technology: </h2>
+  <ul>
+    <li> iMessage </li>
+    <li> Google </li>
+    <li> Cloud Storage </li>
+  </ul>
+
+    <h2> I dislike about technology: </h2>
+  <ul>
+    <li> Always expected to be connected </li>
+    <li> No privacy </li>
+  </ul>
+
+      <h2> I hope to use this course to: </h2>
+  <ol>
+    <li> Understand web design more </li>
+    <li> work in jsbin </li>
+    <li> working in CSS </li>
+  </ol>
+
+  <dl>
+    <dt><a href="http://www.vox.com">Vox</a></dt>
+  <dd>News source that tries to give you a quick overview of all news</dd>
+    <dt><a href="http://www.google.com/docs">Google Docs</a></dt>
+  <dd>Offers an alternative to Office and saves to the cloud</dd>
+    <dt><a href="http://www.prezi.com">Prezi</a></dt>
+  <dd>Offers a presentation software</dd>
+</dl>
+  <hr>
+
+  <blockquote
+ <p>"Be who you are and be that well"</p>
+  <h6> St. Francis DeSales </h6>
+</blockquote>
+
+
+
+
+
+</html>
